@@ -1,0 +1,6 @@
+mylogs.log#ignore 1 file
+abc.log
+#ignore 1 file
+*.log
+#ignore all files
+logs/
